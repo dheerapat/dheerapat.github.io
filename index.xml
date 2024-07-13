@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dheeto Blog</title>
-    <link>https://example.org/</link>
+    <link>https://dheerapat.github.io/</link>
     <description>Recent content on Dheeto Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© dheeto</copyright>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dheerapat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I</title>
-      <link>https://example.org/posts/who-am-i/</link>
+      <link>https://dheerapat.github.io/posts/who-am-i/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/who-am-i/</guid>
+      <guid>https://dheerapat.github.io/posts/who-am-i/</guid>
       <description>About Myself Hi, internet wanderer. My name is Dheeto. I am an ex-pharmacist currently working as a software engineer in Bangkok, Thailand.&#xA;You might wonder, &amp;ldquo;How come?&amp;rdquo; I ended up in software engineering. Well, let me explain it to you.&#xA;First Few Years of My Career I graduated from pharmacy school in early 2020, the year that COVID-19 hit. The healthcare industry wasn&amp;rsquo;t affected that much, so I could still find a job pretty easily and worked as a laboratory technician for almost three years.</description>
     </item>
   </channel>
