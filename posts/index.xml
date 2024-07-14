@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© dheeto</copyright>
-    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dheerapat.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Drive with Linux</title>
+      <link>https://dheerapat.github.io/posts/daily-drive-linux/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://dheerapat.github.io/posts/daily-drive-linux/</guid>
+      <description>From the Beginning Getting software to work on Windows is an easy task: just click an installer, click the next button, let the installation bar run to 100%, and boom, you’ve installed software on a Windows machine. But when it comes to &amp;lsquo;development tools&amp;rsquo; such as Docker, compilers, Kubernetes, etc., you will find that installing these tools on Windows is quite complex and not so straightforward.&#xA;That’s why I chose Linux as my daily driver OS on my personal and work laptop for almost 5 years now.</description>
+    </item>
     <item>
       <title>Who am I</title>
       <link>https://dheerapat.github.io/posts/who-am-i/</link>
