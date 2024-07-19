@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© dheeto</copyright>
-    <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dheerapat.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modular Monolithic</title>
+      <link>https://dheerapat.github.io/posts/modular-monolithic/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://dheerapat.github.io/posts/modular-monolithic/</guid>
+      <description>The Ugly Duck When we talk about the word monolithic, many engineers have negative feelings about it. Some might say, &amp;ldquo;Expanding a monolithic application is very hard,&amp;rdquo; or &amp;ldquo;Maintaining a monolithic app is an exhausting task.&amp;rdquo; Often, we assume these claims are true simply because they relate to monolithic design. We frequently hear negative comments about monolithic architecture and praise another architecture, microservices, as if it&amp;rsquo;s the ultimate solution.&#xA;But what if I told you there are multiple ways to build a monolithic application, and if done correctly, it is much easier for a small team to maintain and expand these apps?</description>
+    </item>
     <item>
       <title>Daily Drive with Linux</title>
       <link>https://dheerapat.github.io/posts/daily-drive-linux/</link>
